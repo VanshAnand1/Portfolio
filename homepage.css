@@ -146,6 +146,21 @@ p {
     font-size: 14px;
 }
 
+.tab-contents ul li .education-header {
+    color: rgb(176, 102, 236);
+    font-size: 18px;
+}
+
+.tab-contents ul li .for-whom-text {
+    color: rgb(185, 178, 178);
+    font-size: 16px;
+}
+
+.tab-contents ul li .plain-text {
+    color: rgb(185, 178, 178);
+    font-size: 14px;
+}
+
 .tab-contents {
     display: none;
 }
