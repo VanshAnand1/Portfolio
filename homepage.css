@@ -258,10 +258,11 @@ form .btn2 {
 }
 
 #footer {
-    position: relative;
+    position: sticky;
     margin-left: 92%;
     z-index: 3000;
-    margin-top: -25px;
+    margin-top: -48px;
+    top: 95%;
 }
 
 .footer-social-icons a {
