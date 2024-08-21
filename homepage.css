@@ -277,13 +277,13 @@ form .btn2 {
     margin-left: 92%;
     z-index: 3000;
     margin-top: -48px;
-    top: 95%;
+    top: 94%;
 }
 
 .footer-social-icons a {
     text-decoration: none;
     font-size: 30px;
-    margin-right: 15px;
+    margin-right: 10px;
     color: #ababab;
     display: inline-block;
     transition: transform 0.5s;
